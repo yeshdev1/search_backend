@@ -55,7 +55,7 @@ soupsieve==2.0
 SpeechRecognition==3.8.1
 sqlparse==0.3.1
 textract==1.6.3
-Twisted==19.10.0
+Twisted==20.3.0
 tzlocal==1.5.1
 urllib3==1.25.8
 w3lib==1.21.0
